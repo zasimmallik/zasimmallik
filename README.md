@@ -1,7 +1,7 @@
-![Web Developer](https://zasimmallick.github.io/Panda-Commerce-Bootstrap/GIF/gif2.gif)
 
-### Hi there 👋, I'm Zasim Mallick
-#### Web Developer
+
+# Hey, Hi I'm Zasim Mallick
+### Web Developer
 
 
 
