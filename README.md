@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+![I am GitHub Readme Generator's creator](http://propulsive.in/assets/img/service-icon/web.gif)
 
 
 <h1 align="center">Hey, Hi I'm Zasim Mallick</h1>
