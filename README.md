@@ -1,5 +1,4 @@
 
-![I am GitHub Readme Generator's creator](http://propulsive.in/assets/img/service-icon/web.gif)
 
 
 <h1 align="center">Hey, Hi I'm Zasim Mallick</h1>
