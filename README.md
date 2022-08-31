@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey, Hi I'm Zasim Mallick</h1>
 <h3 align="center">Web Developer</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zasimmallick" alt="zasimmallick" /></a> </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
