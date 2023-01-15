@@ -32,8 +32,8 @@
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zasimmallick&show_icons=true&locale=en&layout=compact" alt="zasimmallick" /></p></td>
-       <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zasimmallick&show_icons=true&locale=en" alt="zasimmallick" /></p> </td>
+       <td><img alt="zasimmallick :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=zasimmallick&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="zasimmallick :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallick&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zasimmallick&theme=blue-green&hide_border=true"></td>
