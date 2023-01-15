@@ -36,8 +36,4 @@
        <td><img alt="progmamun :: Top Langs]"  src="https://github-readme-stats.vercel.app/api/top-langs?username=zasimmallick&show_icons=true&locale=en&layout=compact" alt="zasimmallick"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zasimmallick&theme=blue-green&hide_border=true"></td>
-     </tr>
-   </table>
-   <img alt="zasimmallick Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zasimmallick&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</p>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zasimmallick&theme=blue-green&hide_border=true">
