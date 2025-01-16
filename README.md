@@ -58,10 +58,12 @@
       <td><img alt="zasimmallick :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallick&langs_count=14&theme=blue-green&layout=compact&hide_border=true" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=zasimmallick&theme=blue-green&hide_border=true" /></td>
+      <td colspan="2" align="center"><img alt="zasimmallick :: Streak Stats" src="https://streak-stats.demolab.com?user=zasimmallick&theme=blue-green&hide_border=true" /></td>
     </tr>
   </table>
 </p>
+
+
 
 ---
 
