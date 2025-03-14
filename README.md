@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zasimmallick/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zasim mallick" height="30" width="40" /></a>
-<a href="https://x.com/zasimmallick" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (zasimmallick)" height="30" width="40" /></a>
+<a href="https://x.com/zasimmallik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (zasimmallick)" height="30" width="40" /></a>
 <a href="https://www.facebook.com/zasimmallick.Z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zasim mallick" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zasimmallick/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zasimmallick" height="30" width="40" /></a>
 </p>
@@ -54,11 +54,11 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td><img alt="zasimmallick :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=zasimmallick&theme=blue-green&show_icons=true&count_private=true&hide_border=true" /></td>
-      <td><img alt="zasimmallick :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallick&langs_count=14&theme=blue-green&layout=compact&hide_border=true" /></td>
+      <td><img alt="zasimmallick :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=zasimmallik&theme=blue-green&show_icons=true&count_private=true&hide_border=true" /></td>
+      <td><img alt="zasimmallick :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallik&langs_count=14&theme=blue-green&layout=compact&hide_border=true" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img alt="zasimmallick :: Streak Stats" src="https://streak-stats.demolab.com?user=zasimmallick&theme=blue-green&hide_border=true" /></td>
+      <td colspan="2" align="center"><img alt="zasimmallick :: Streak Stats" src="https://streak-stats.demolab.com?user=zasimmallik&theme=blue-green&hide_border=true" /></td>
     </tr>
   </table>
 </p>
@@ -67,4 +67,4 @@
 
 ---
 
-<h3 align="center">🌐 Let’s Build the Future Together!</h3>
+<h3 align="center">🌐 Let’s Build the Future Together!</h3>   
