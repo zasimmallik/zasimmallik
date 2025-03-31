@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zasimmallick&label=Profile%20views&color=0e75b6&style=flat" alt="zasimmallick" /> </p>
 
 - ✨ I'm currently working on something awesome.
+- 🚀 Building AI-powered SaaS products
 - ✨ I'm currently learning something amazing.
 - ✉ How to reach me: **zasimmallickofficial@gmail.com**
 
