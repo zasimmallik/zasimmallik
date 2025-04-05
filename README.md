@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zasimmallick/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zasim mallick" height="30" width="40" /></a>
-<a href="https://x.com/zasimmallik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (zasimmallick)" height="30" width="40" /></a>
-<a href="https://www.facebook.com/zasimmallick.Z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zasim mallick" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zasimmallick/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zasimmallick" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zasimmallik/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zasim mallik" height="30" width="40" /></a>
+<a href="https://x.com/zasimmallik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (zasimmallik)" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zasimmallik.Z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zasim mallik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zasimmallik/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zasimmallik" height="30" width="40" /></a>
 </p>
 
 ---
