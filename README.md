@@ -41,7 +41,7 @@
       <td><img alt="zasimmallick :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallik&langs_count=14&theme=blue-green&layout=compact&hide_border=true" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img alt="zasimmallick :: Streak Stats" src="https://streak-stats.demolab.com?user=zasimmallik&theme=blue-green&hide_border=true" /></td>
+      <td colspan="2" align="center"><img alt="zasimmallick :: Streak Stats" src="https://streak-stats.demolab.com?user=zasimmallik&theme=blue-navy&hide_border=true" /></td>
     </tr>
   </table>
 </p>
