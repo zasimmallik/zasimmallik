@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, Hi! I'm <span style="color: #0e75b6;">Zasim Mallick</span> ✨</h1>
+<h1 align="center">✨ Hey, Hi! I'm <span style="color: #0e75b6;">Zasim Mallik</span> ✨</h1>
 <h3 align="center">A Passionate Web Developer Crafting the Future of the Web</h3>
 
 <div style="margin-bottom: 20px;">
