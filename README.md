@@ -43,25 +43,28 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite,vitest,jest&perline=11" alt="Frontend" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgres,graphql,firebase,aws,docker&perline=11" alt="Backend" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,python&perline=11" alt="Tools" />
-  </a>
-</p>
+<div align="center">
+
+| **Frontend & UI** | **Backend & Database** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,vite,html,css" width="400" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,graphql,firebase,python" width="350" /> | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify,figma" width="300" /> |
+
+</div>
 
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zasimmallik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Zasim's Github Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=zasimmallik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Zasim's Github Stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <br/>
