@@ -26,11 +26,12 @@
     <td width="50%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🔭 I’m currently building <strong>AI-Powered SaaS Products</strong>.</li>
-        <li>🌱 I’m currently learning <strong>Advanced System Design & Cloud Architecture</strong>.</li>
-        <li>💼 I specialize in <strong>MERN Stack & Next.js</strong>.</li>
-        <li>💬 Ask me about <strong>React, Node.js, and Scalability</strong>.</li>
-        <li>⚡ Fun fact: <strong>I love solving complex problems with simple code.</strong></li>
+        <li>🔭 Building <strong>AI-powered SaaS products</strong> with full-stack precision.</li>
+        <li>🌱 Mastering <strong>Full-Stack AI with Python</strong> — LLMs, RAG, Agents, LangGraph.</li>
+        <li>💼 Working with <strong>Next.js, TypeScript, Node.js, Prisma, PostgreSQL</strong>.</li>
+        <li>💬 Interested in <strong>scalable systems, automation, and intelligent workflows</strong>.</li>
+        <li>📧 Email: <strong>zasimmallickofficial@gmail.com</strong></li>
+        <li>⚡ Approach: <strong>clean engineering, discipline, fast execution</strong>.</li>
       </ul>
     </td>
     <td width="50%" align="center" valign="center">
