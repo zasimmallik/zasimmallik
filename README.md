@@ -41,18 +41,17 @@
 
 ---
 
-<h3 align="center">🛠 Languages & Tools</h3>
-<div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,nodejs,express,graphql,mongodb,postgres,prisma,firebase&perline=7&theme=dark" alt="My Skills" />
-    </a>
-    <br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,jest,vitest,vite,vscode,figma,replit&perline=7&theme=dark" alt="My Tools" />
-    </a>
-  </p>
-</div>
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite,vitest,jest&perline=11" alt="Frontend" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgres,graphql,firebase,aws,docker&perline=11" alt="Backend" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,python&perline=11" alt="Tools" />
+  </a>
+</p>
 
 ---
 
