@@ -1,53 +1,78 @@
-<h1 align="center">✨ Hey, Hi! I'm <span style="color: #0e75b6;">Zasim Mallik</span> ✨</h1>
-<h3 align="center">Software Engineer | Full Stack Developer</h3>
-
-<div style="margin-bottom: 20px;">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F88C5&center=true&vCenter=true&width=435&lines=Hi,+I'm+Zasim+Mallik;Software+Engineer;Full+Stack+Developer;Building+AI-Powered+SaaS" alt="Typing SVG" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zasimmallick&label=Profile%20views&color=0e75b6&style=flat" alt="zasimmallick" /> </p>
-
-- ✨ I'm currently working on something awesome.
-- 🚀 Building AI-powered SaaS products
-- ✨ I'm currently learning something amazing.
-- ✉ How to reach me: **zasimmallickofficial@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zasimmallik/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zasim mallik" height="30" width="40" /></a>
-<a href="https://x.com/zasimmallik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (zasimmallik)" height="30" width="40" /></a>
-<a href="https://www.facebook.com/zasimmallik.Z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zasim mallik" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zasimmallik/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zasimmallik" height="30" width="40" /></a>
-</p>
-
----
-
-## :computer: Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,prisma,postgres,graphql,docker,aws,git,github,firebase,jest,vitest,vite,vercel,netlify,replit,figma,vscode&theme=dark" />
+<div align="center">
+  <h3>🚀 Turning Ideas into Scalable Solutions</h3>
+  
+  <a href="https://www.linkedin.com/in/zasimmallik/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
+  <a href="https://x.com/zasimmallik" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:zasimmallickofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/zasimmallik/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br />
+
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently building <strong>AI-Powered SaaS Products</strong>.</li>
+        <li>🌱 I’m currently learning <strong>Advanced System Design & Cloud Architecture</strong>.</li>
+        <li>💼 I specialize in <strong>MERN Stack & Next.js</strong>.</li>
+        <li>💬 Ask me about <strong>React, Node.js, and Scalability</strong>.</li>
+        <li>⚡ Fun fact: <strong>I love solving complex problems with simple code.</strong></li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🛠 Languages & Tools</h3>
+<div align="center">
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nextjs,nodejs,express,graphql,mongodb,postgres,prisma,firebase&perline=7&theme=dark" alt="My Skills" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,jest,vitest,vite,vscode,figma,replit&perline=7&theme=dark" alt="My Tools" />
+    </a>
+  </p>
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zasimmallik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Zasim's Github Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=zasimmallik&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+</div>
+
+<br />
+
 <p align="center">
-  <table align="center">
-    <tr>
-      <td><img alt="zasimmallick :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=zasimmallik&theme=blue-green&show_icons=true&count_private=true&hide_border=true" /></td>
-      <td><img alt="zasimmallick :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zasimmallik&langs_count=14&theme=blue-green&layout=compact&hide_border=true" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img alt="zasimmallick :: Streak Stats" src="https://streak-stats.demolab.com?user=zasimmallik&theme=blue-navy&hide_border=true" /></td>
-    </tr>
-  </table>
+ <img src="https://komarev.com/ghpvc/?username=zasimmallick&label=Profile%20Views&color=3F88C5&style=for-the-badge" alt="zasimmallick" />
 </p>
 
-
-
----
-
-<h3 align="center">🌐 Let’s Build the Future Together!</h3>   
+<h3 align="center">🌐 Let’s Build the Future Together!</h3>
