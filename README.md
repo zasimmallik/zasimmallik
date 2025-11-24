@@ -43,11 +43,14 @@
 
 <div align="center">
 
-| **Frontend & UI** | **Backend & Database** | **DevOps & Tools** |
+| **Frontend & UI** | **Backend & Data Layer** | **Cloud, DevOps & Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,vite,html,css" width="600" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,graphql,firebase,python" width="600" /> | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify,figma" width="500" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,vite,html,css" width="780" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,mongodb,postgres,prisma,graphql,redis" width="780" /> | <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,firebase,git,github,bash,postman,figma" width="720" /> |
 
 </div>
+
+---
+
 
 ---
 
