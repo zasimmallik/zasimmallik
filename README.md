@@ -80,23 +80,6 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!--
-  ⚠️ WHY ANALYTICS BREAK & HOW TO FIX PERMANENTLY ⚠️
-  
-  The public instances (github-readme-stats.vercel.app, github-readme-activity-graph.vercel.app)
-  share GitHub API rate limits across ALL users (60 req/hour unauthenticated).
-
-  ✅ PERMANENT FIX — Deploy your own instances (FREE, ~5 min each):
-  
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy to Vercel (free tier)
-  3. Add your GitHub PAT as env var: PAT_1=ghp_xxxx
-  4. Replace "github-readme-stats.vercel.app" below with "YOUR-APP.vercel.app"
-  
-  Same for activity graph: fork https://github.com/Ashutosh00710/github-readme-activity-graph
-  
-  This gives you 5,000 req/hour instead of sharing 60 with everyone.
--->
 
 <div align="center">
   <picture>
