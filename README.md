@@ -36,7 +36,6 @@
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🔭 Working on <a href="https://zeraql.com"><strong>Zeraql</strong></a> & <a href="https://rizmiq.com"><strong>Rizmiq</strong></a> — AI-driven SaaS platforms.</li>
-        <li>🌱 Mastering <strong>Full-Stack AI with Python</strong> — LLMs, RAG, Agents, LangChain, LangGraph.</li>
         <li>💼 Core stack: <strong>Next.js, TypeScript, Node.js, Prisma, PostgreSQL</strong>.</li>
         <li>🤖 Building with <strong>Claude, OpenAI, AI Agents, Context Engineering</strong>.</li>
         <li>💬 Interested in <strong>scalable systems, automation, and intelligent workflows</strong>.</li>
